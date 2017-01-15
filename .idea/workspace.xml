@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="811f1a22-35b2-48cc-a045-b33251de6bfb" name="Default" comment="" />
+    <ignored path="WebDevSpring2016.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebDevSpring2016" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.47215497">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/friend.controller.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/users/register.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/users/register.controller.js" />
+        <option value="$PROJECT_DIR$/public/project/client/app.js" />
+        <option value="$PROJECT_DIR$/public/project/client/index.html" />
+        <option value="$PROJECT_DIR$/public/assignment/server/services/user.service.server.js" />
+        <option value="$PROJECT_DIR$/public/project/server/services/user.service.server.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/friend.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/header/header.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/navbar/navbar.view.html" />
+        <option value="$PROJECT_DIR$/public/project/server/app.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/profileFriend.view.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/project/server/models/event.model.server.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/profile.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/profile.controller.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/search/search.controller.js" />
+        <option value="$PROJECT_DIR$/public/project/server/models/eventful.model.server.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/search/searchEvent.controller.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/search/search.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/calendar.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/event.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/search/searchEvent.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/userinfo/event.controller.js" />
+        <option value="$PROJECT_DIR$/public/project/client/views/users/login.view.html" />
+        <option value="$PROJECT_DIR$/public/project/client/views/users/login.controller.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/client/views/sidebar/sidebar.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/views/main/main.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/views/header/header.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/directives/ngCart.js" />
+        <option value="$PROJECT_DIR$/public/client/services/field.service.client.js" />
+        <option value="$PROJECT_DIR$/public/client/services/form.service.client.js" />
+        <option value="$PROJECT_DIR$/public/client/services/user.service.client.js" />
+        <option value="$PROJECT_DIR$/public/client/app.js" />
+        <option value="$PROJECT_DIR$/public/client/css/dashboard.css" />
+        <option value="$PROJECT_DIR$/public/client/views/home/home.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/views/cart/cart.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/views/portfolio/portfolio.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/views/portfolio/portfolio.view.html" />
+        <option value="$PROJECT_DIR$/public/client/views/cart/cart.view.html" />
+        <option value="$PROJECT_DIR$/public/client/views/header/header.view.html" />
+        <option value="$PROJECT_DIR$/public/client/views/gallery/gallery.controller.js" />
+        <option value="$PROJECT_DIR$/public/client/views/home/home.view.html" />
+        <option value="$PROJECT_DIR$/public/client/views/gallery/gallery.view.html" />
+        <option value="$PROJECT_DIR$/public/client/index.html" />
+        <option value="$PROJECT_DIR$/public/client/css/custom.css" />
+        <option value="$PROJECT_DIR$/public/client/config.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="482" />
+    <option name="y" value="23" />
+    <option name="width" value="1087" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDevSpring2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebDevSpring2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puttyface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="/">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Kelly">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Desktop">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Kelly/Desktop/CS 5610/WebDevSpring2016/public/project/client/views/userinfo/event.view.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/client/img" />
+      <recent name="$PROJECT_DIR$/public/client/css" />
+      <recent name="$PROJECT_DIR$/public/project/client/views/userinfo" />
+      <recent name="$PROJECT_DIR$/public/project/client/js" />
+      <recent name="$PROJECT_DIR$/public/project/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/client" />
+      <recent name="$PROJECT_DIR$/public/project/client/services" />
+      <recent name="$PROJECT_DIR$/public/project/client/views" />
+      <recent name="$PROJECT_DIR$/public/project/client/css/imgs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.webdev">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevSpring2016/public/project/client/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Debug" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" with-js-debugger="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="webdev" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Debug" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.webdev" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="811f1a22-35b2-48cc-a045-b33251de6bfb" name="Default" comment="" />
+      <created>1453243378825</created>
+      <option name="number" value="Default" />
+      <updated>1453243378825</updated>
+    </task>
+    <task id="LOCAL-00074" summary="working on project">
+      <created>1460265374038</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1460265374039</updated>
+    </task>
+    <task id="LOCAL-00075" summary="working on project: adding more features">
+      <created>1460426074878</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1460426074880</updated>
+    </task>
+    <task id="LOCAL-00076" summary="working on project: adding more features">
+      <created>1460426530032</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1460426530032</updated>
+    </task>
+    <task id="LOCAL-00077" summary="get passport work for both project and assignment">
+      <created>1460629439542</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1460629439544</updated>
+    </task>
+    <task id="LOCAL-00078" summary="project: finished all features">
+      <created>1460774852263</created>
+      <option name="number" value="00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1460774852264</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Changed some UX design">
+      <created>1460797078966</created>
+      <option name="number" value="00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1460797078970</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Changed some UX design">
+      <created>1460799831440</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1460799831449</updated>
+    </task>
+    <task id="LOCAL-00081" summary="testing timezone">
+      <created>1460827648713</created>
+      <option name="number" value="00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1460827648714</updated>
+    </task>
+    <task id="LOCAL-00082" summary="testing timezone">
+      <created>1460931569307</created>
+      <option name="number" value="00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1460931569307</updated>
+    </task>
+    <task id="LOCAL-00083" summary="testing timezone">
+      <created>1460932595712</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1460932595712</updated>
+    </task>
+    <task id="LOCAL-00084" summary="testing timezone">
+      <created>1460935581007</created>
+      <option name="number" value="00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1460935581007</updated>
+    </task>
+    <task id="LOCAL-00085" summary="testing timezone">
+      <created>1460935733276</created>
+      <option name="number" value="00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1460935733276</updated>
+    </task>
+    <task id="LOCAL-00086" summary="testing timezone">
+      <created>1460936194094</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1460936194094</updated>
+    </task>
+    <task id="LOCAL-00087" summary="testing timezone">
+      <created>1460936618784</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1460936618787</updated>
+    </task>
+    <task id="LOCAL-00088" summary="finalize project">
+      <created>1460937322676</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1460937322676</updated>
+    </task>
+    <task id="LOCAL-00089" summary="finalize project">
+      <created>1460937370999</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1460937370999</updated>
+    </task>
+    <task id="LOCAL-00090" summary="finalize project">
+      <created>1460938146938</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1460938146939</updated>
+    </task>
+    <task id="LOCAL-00091" summary="finalize project">
+      <created>1460938452804</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1460938452804</updated>
+    </task>
+    <task id="LOCAL-00092" summary="update my portfolio">
+      <created>1460946981149</created>
+      <option name="number" value="00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1460946981149</updated>
+    </task>
+    <task id="LOCAL-00093" summary="update my portfolio">
+      <created>1460950682087</created>
+      <option name="number" value="00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1460950682088</updated>
+    </task>
+    <task id="LOCAL-00094" summary="update my portfolio">
+      <created>1460954863496</created>
+      <option name="number" value="00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1460954863496</updated>
+    </task>
+    <task id="LOCAL-00095" summary="change timezone">
+      <created>1460965509396</created>
+      <option name="number" value="00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1460965509396</updated>
+    </task>
+    <task id="LOCAL-00096" summary="change timezone">
+      <created>1460967341857</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1460967341858</updated>
+    </task>
+    <task id="LOCAL-00097" summary="change timezone">
+      <created>1460967394826</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1460967394826</updated>
+    </task>
+    <task id="LOCAL-00098" summary="change timezone">
+      <created>1460968101895</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1460968101896</updated>
+    </task>
+    <task id="LOCAL-00099" summary="change timezone">
+      <created>1460968711585</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1460968711585</updated>
+    </task>
+    <task id="LOCAL-00100" summary="change timezone">
+      <created>1460971564369</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1460971564370</updated>
+    </task>
+    <task id="LOCAL-00101" summary="change timezone">
+      <created>1460973111040</created>
+      <option name="number" value="00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1460973111040</updated>
+    </task>
+    <task id="LOCAL-00102" summary="finalize project">
+      <created>1460973490309</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1460973490309</updated>
+    </task>
+    <task id="LOCAL-00103" summary="finalize project">
+      <created>1461031258323</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1461031258325</updated>
+    </task>
+    <task id="LOCAL-00104" summary="time issue">
+      <created>1461032987109</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1461032987110</updated>
+    </task>
+    <task id="LOCAL-00105" summary="time issue">
+      <created>1461033919744</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1461033919745</updated>
+    </task>
+    <task id="LOCAL-00106" summary="time issue">
+      <created>1461038146754</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1461038146754</updated>
+    </task>
+    <task id="LOCAL-00107" summary="time issue">
+      <created>1461039518227</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1461039518227</updated>
+    </task>
+    <task id="LOCAL-00108" summary="time issue">
+      <created>1461040749099</created>
+      <option name="number" value="00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1461040749100</updated>
+    </task>
+    <task id="LOCAL-00109" summary="time issue">
+      <created>1461041251143</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1461041251143</updated>
+    </task>
+    <task id="LOCAL-00110" summary="time issue">
+      <created>1461042342903</created>
+      <option name="number" value="00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1461042342904</updated>
+    </task>
+    <task id="LOCAL-00111" summary="time issue">
+      <created>1461046628195</created>
+      <option name="number" value="00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1461046628196</updated>
+    </task>
+    <task id="LOCAL-00112" summary="time issue">
+      <created>1461049235760</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1461049235763</updated>
+    </task>
+    <task id="LOCAL-00113" summary="time issue">
+      <created>1461050801555</created>
+      <option name="number" value="00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1461050801556</updated>
+    </task>
+    <task id="LOCAL-00114" summary="time issue">
+      <created>1461051778542</created>
+      <option name="number" value="00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1461051778542</updated>
+    </task>
+    <task id="LOCAL-00115" summary="time issue">
+      <created>1461052181636</created>
+      <option name="number" value="00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1461052181636</updated>
+    </task>
+    <task id="LOCAL-00116" summary="time issue">
+      <created>1461056564531</created>
+      <option name="number" value="00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1461056564531</updated>
+    </task>
+    <task id="LOCAL-00117" summary="time issue">
+      <created>1461057357945</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1461057357945</updated>
+    </task>
+    <task id="LOCAL-00118" summary="finalize project">
+      <created>1461059434620</created>
+      <option name="number" value="00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1461059434620</updated>
+    </task>
+    <task id="LOCAL-00119" summary="finalize project">
+      <created>1461063098755</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1461063098755</updated>
+    </task>
+    <task id="LOCAL-00120" summary="finalize project">
+      <created>1461065346960</created>
+      <option name="number" value="00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1461065346960</updated>
+    </task>
+    <task id="LOCAL-00121" summary="fixed bug">
+      <created>1461096038254</created>
+      <option name="number" value="00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1461096038257</updated>
+    </task>
+    <task id="LOCAL-00122" summary="fixed bug">
+      <created>1461100605178</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1461100605178</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="482" y="23" width="1087" height="709" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25515947" sideWeight="0.71631205" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31340873" sideWeight="0.49618322" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30371568" sideWeight="0.53786904" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2560778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4311183" sideWeight="0.47875568" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30307943" sideWeight="0.46213093" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24711111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28525123" sideWeight="0.47041985" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678474" sideWeight="0.28368795" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31340873" sideWeight="0.49618322" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46839547" sideWeight="0.5212443" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43134087" sideWeight="0.47875568" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30371568" sideWeight="0.45599392" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28432956" sideWeight="0.47041985" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30498865" sideWeight="0.71631205" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2560778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24753451" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678474" sideWeight="0.28368795" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection>
+        <UserGroup>
+          <option name="users">
+            <list>
+              <option value="me" />
+            </list>
+          </option>
+        </UserGroup>
+      </collection>
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection>
+        <UserGroup>
+          <option name="users">
+            <list>
+              <option value="HEAD" />
+            </list>
+          </option>
+        </UserGroup>
+      </collection>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="updated sortable" />
+    <MESSAGE value="update email implementation" />
+    <MESSAGE value="test mongodb package json" />
+    <MESSAGE value="debugging openshift setup" />
+    <MESSAGE value="fix openshift setup" />
+    <MESSAGE value="Changed method call for those that are not supported by mongo 2.4" />
+    <MESSAGE value="fix errors that works locally but do not work on openshift" />
+    <MESSAGE value="working on project: most basic features work" />
+    <MESSAGE value="starting assignment5" />
+    <MESSAGE value="working assignment5: most features working now working on sorting" />
+    <MESSAGE value="working assignment5: most features working need some wrap up" />
+    <MESSAGE value="finish assignment5" />
+    <MESSAGE value="implement passport" />
+    <MESSAGE value="fix bug in assignment5" />
+    <MESSAGE value="working on project" />
+    <MESSAGE value="working on project: adding more features" />
+    <MESSAGE value="get passport work for both project and assignment" />
+    <MESSAGE value="project: finished all features" />
+    <MESSAGE value="Changed some UX design" />
+    <MESSAGE value="testing timezone" />
+    <MESSAGE value="update my portfolio" />
+    <MESSAGE value="change timezone" />
+    <MESSAGE value="time issue" />
+    <MESSAGE value="finalize project" />
+    <MESSAGE value="fixed bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="javascript">
+          <url>file://$PROJECT_DIR$/public/assignment/client/views/sidebar/sidebar.controller.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="javascript">
+          <url>file://$PROJECT_DIR$/public/project/client/services/user.service.client.js</url>
+          <line>68</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="33" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="WebDevSpring2016" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="WebDevSpring2016" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324937">
+          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/kareem/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52">
+          <caret line="108" column="15" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9640103">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.54241645">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18656716">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47215497">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
