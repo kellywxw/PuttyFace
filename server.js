@@ -44,4 +44,9 @@ var chopchopUserModel = require("./public/project/server/models/user.model.serve
 require("./public/assignment/server/app.js")(app, mongoose, db, chopchopUserModel);
 require("./public/project/server/app.js")(app, mongoose, db, chopchopUserModel);
 */
-app.listen(port, ipaddress);
+// app.listen(port, ipaddress);
+
+http.createServer(function (req, res) {
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+    res.end('EndPoint 2\n');
+}).listen(process.env.OPENSHIFT_NODEJS_PORT2, process.env.OPENSHIFT_NODEJS_IP);
