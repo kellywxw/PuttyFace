@@ -14,6 +14,10 @@
                 templateUrl: "views/gallery/gallery.view.html",
                 controller: "GalleryController"
             })
+            .when("/cart", {
+                templateUrl: "views/cart/cart.view.html",
+                controller: "CartController"
+            })
             .otherwise({
                 redirectTo: "/home"
             });
